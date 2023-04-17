@@ -1,5 +1,6 @@
 import React from "react";
 import Timeline from "./Timeline";
+import TweetBar from "./TweetBar";
 
 const mainTimelineList = [
   {
@@ -19,6 +20,7 @@ const mainTimelineList = [
 function TimelineDetails(){
   return (
     <React.Fragment>
+      <TweetBar/>
       {mainTimelineList.map((timeline, index) =>
         <Timeline name = {timeline.name}
         timelineTweet = {timeline.timelineTweet}
