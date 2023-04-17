@@ -1,3 +1,14 @@
+# 🎡 Social Media Clone
+
+## by Sarah Andyshak, Luckie, Erin Timlin
+
+## Project diagram
+![project plan](./src/img/social-media-plan.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
