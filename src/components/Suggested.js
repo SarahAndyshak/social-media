@@ -10,7 +10,7 @@ const suggestedFriends = [
   }
 ]
 
-// Original code, without button after each name:
+// Original code, without button after each name (Chat GPT):
 
 // function Suggested(){
 //   return (
